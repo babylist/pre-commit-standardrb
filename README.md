@@ -12,7 +12,7 @@ This is a plugin for [pre-commit](https://pre-commit.com) that will run [Standar
 
 ## Using standardrb with pre-commit
 
-    - repo: https://github.com/jalessio/pre-commit-standardrb
+    - repo: https://github.com/babylist/pre-commit-standardrb
       rev: ''  # Use the sha / tag you want to point at
       hooks:
         - id: standardrb
